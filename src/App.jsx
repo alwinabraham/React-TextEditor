@@ -1,11 +1,8 @@
+import QuillComponent from "./components/QuillComponent"
 
 function App() {
   return (
-    <>
-      <div>
-        hello
-      </div>
-    </>
+    <QuillComponent />
   )
 }
 
